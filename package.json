@@ -1,0 +1,27 @@
+{
+  "name": "antd-mobile-spec",
+  "version": "2.1.3",
+  "description": "Structural configuration options of all Ant Design Mobile components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "export-spec": "node scripts/spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayqy/antd-mobile-spec.git"
+  },
+  "dependencies": {
+    "antd-mobile-src": "git+https://ayqy@github.com/ant-design/ant-design-mobile.git#2.1.3"
+  },
+  "keywords": [
+    "antd-mobile",
+    "icebrick"
+  ],
+  "author": "ayqy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayqy/antd-mobile-spec/issues"
+  },
+  "homepage": "https://github.com/ayqy/antd-mobile-spec#readme"
+}
