@@ -12,6 +12,8 @@
     "url": "git+https://github.com/ayqy/antd-mobile-spec.git"
   },
   "dependencies": {
+  },
+  "devDependencies": {
     "antd-mobile-src": "git+https://ayqy@github.com/ant-design/ant-design-mobile.git#2.1.3"
   },
   "keywords": [
